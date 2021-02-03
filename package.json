@@ -1,6 +1,6 @@
 {
   "name": "@sprukstish/bids-notification-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Sprukstish/bids-notification-template.git"
   },
-
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sprukstish/bids-notification-template/issues"
   },
-  "homepage": "https://github.com/Sprukstish/bids-notification-template#readme"
+  "homepage": "https://github.com/Sprukstish/bids-notification-template#readme",
+  "dependencies": {
+    "expo-notifications": "^0.9.0"
+  }
 }
