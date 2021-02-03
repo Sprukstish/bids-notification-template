@@ -1,5 +1,5 @@
-import HomeScreen from "./notifications";
+import MainPackage from "./notifications";
 
 export default {
-  HomeScreen,
+  MainPackage,
 };

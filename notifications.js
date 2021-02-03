@@ -12,7 +12,7 @@ Notifications.setNotificationHandler({
   }),
 });
 
-export default function HomeScreen() {
+export default function MainPackage() {
   const navigation = useNavigation();
 
   const [expoPushToken, setExpoPushToken] = useState("");
